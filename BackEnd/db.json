@@ -1,0 +1,29 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "HD Samsung 500GB",
+      "price": "250.00"
+    },
+    {
+      "id": 2,
+      "name": "Fonte ATX 450 Watts",
+      "price": "120.00"
+    },
+    {
+      "id": 3,
+      "name": "Monitor Samsung 21'",
+      "price": "900.00"
+    },
+    {
+      "id": 4,
+      "name": "Notebook Dell i5956 8GB de Memória RAM 240GB SDD",
+      "price": "4500.00"
+    },
+    {
+      "name": "Memória Ram Smart DRR4",
+      "price": "300.00",
+      "id": 5
+    }
+  ]
+}
